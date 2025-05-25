@@ -1,0 +1,4 @@
+@KamSoft_HostAddress = http://localhost:5173/event
+
+###
+GET {{KamSoft_HostAddress}}
